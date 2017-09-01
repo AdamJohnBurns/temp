@@ -294,8 +294,6 @@ html {
 }
 
 body {
-  width:100%;
-  height:100%;
   background: #ce5a57;
 background: -moz-linear-gradient(top, #ce5a57 0%, #ce5a57 5%, #b03e3f 100%);
 background: -webkit-linear-gradient(top, #ce5a57 0%,#ce5a57 5%,#b03e3f 100%);
